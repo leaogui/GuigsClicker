@@ -1,2 +1,2 @@
 # GuigsClicker
-Clicker sobre mim
+Clicker sobre mim usando AngularJS
