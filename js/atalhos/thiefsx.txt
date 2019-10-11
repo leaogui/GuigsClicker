@@ -1,4 +1,0 @@
-windhelm: 1 2 3 4 5 
-solitude: 1 2 3 4 5
-markarth: 1 2 3 4 5
-whiterun: 1 2 3 4 5

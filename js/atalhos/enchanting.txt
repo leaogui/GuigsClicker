@@ -1,6 +1,0 @@
-colar:  destruction - stamina regen
-anel:  destruction - magicka
-armadura:  destruction e magicka regen - magicka regen
-bota: resist fire - sneak
-luva: two handed - one handed
-chapeu:	archery - magicka
